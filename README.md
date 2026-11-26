@@ -11,11 +11,11 @@ infographic with PIL — "THE WORLD IN ONE DAY / Wednesday, 25 November
 dated 25 November 2026:
 
 1. Ukraine war — drones hit the Syzran and Kuibyshev refineries
-2. Nvidia — the Huang rally fades fast (−6%)
-3. Yemen / Red Sea — Houthis threaten Jeddah ports
+2. Markets — Asia's AI stocks plunge (Taiex −7.9%, Kospi −5.6%, Nikkei −3.6%)
+3. Iran / Strait of Hormuz — the IRGC *claims* a tanker hit a mine (claim, unverified)
 4. Space — Pakistan's first astronaut in orbit (Shenzhou-24)
 5. Colombia — Cartagena supermarket standoff ends, all hostages freed
-6. Indonesia — dozens trapped in a West Java mine
+6. Indonesia — three bodies found in the Pongkor gold mine, Bogor (26 trapped)
 
 Before writing anything out, the program validates the finished PNG
 (magic bytes, 1024×1024 dimensions, per-chunk CRCs, IEND present, no
